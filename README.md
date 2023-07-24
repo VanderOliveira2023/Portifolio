@@ -8,7 +8,7 @@ PROJETO PESSOAL-Portifolio
 - [Author](#author)
 
 ## Description
-Com base nos estudos nas tecnologias HTML5 e CSS, criei este site PORTFOLIO com intuito de aprimorar meus conhecimentos nas tecnologias e apresentar o resultado do meu trabalho nesse projeto e em outros projetos.
+Com base nos estudos nas tecnologias HTML5 e CSS, criei este site PORTFOLIO com intuito de aprimorar meus conhecimentos nas tecnologias e apresentar o resultado do meu trabalho nesse projeto e em outros projetos. Este site PORTFOLIO está responcivo para mobile também .
 
 ## Screenshot
 ![](./img1/portfolio.png)
